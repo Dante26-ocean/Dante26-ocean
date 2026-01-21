@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi There
 
-<!--
-**Dante26-ocean/Dante26-ocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dante
+An aspiring front-end and web developer
 
-Here are some ideas to get you started:
+### Skills
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Blender
+- Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning 
+- JavaScript
+- Backend
+
+### Goal
+- Build real-world websites
+- Improve my web devepoler skills
+  
