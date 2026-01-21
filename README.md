@@ -16,9 +16,13 @@ An aspiring front-end and web developer
 
 ### Currently Learning 
 
-<p align="left">
+<p align="float">
  <img width="100px" height="100px" alt="js" src="https://github.com/user-attachments/assets/a7228d60-b68d-44fb-92e5-528d22455576" />
  <img width="100px" height="100px" alt="backend-coding" src="https://github.com/user-attachments/assets/5368b762-e223-490c-9fa9-b4cef8492790" />
+ <img width="100px" height="100px" alt="backend" src="https://github.com/user-attachments/assets/f0b418f7-0cf6-44ac-855e-d9d70bba8b72" />
+ <img width="100px" height="100px" alt="nodejs" src="https://github.com/user-attachments/assets/7f2e647e-2692-4884-87ee-61f6cfd51588" />
+
+
 </p>
 
 ### Goal
