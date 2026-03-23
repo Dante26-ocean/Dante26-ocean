@@ -11,6 +11,7 @@ An aspiring front-end and web developer
   <img width="100px" height="100px" src="https://github.com/user-attachments/assets/a7228d60-b68d-44fb-92e5-528d22455576" />
   <img width="100px" height="100px" src="https://github.com/user-attachments/assets/475e5537-7012-4fab-b256-1530bee6ec47" />
   <img width="100px" height="100px" src="https://github.com/user-attachments/assets/18f52832-1ab0-452d-8c1c-8fe6aa4bfeb7" />
+  <img width="100px" height="100px" src="https://www.flaticon.com/free-icon/typescript_5968381">
 
 </p>
 
