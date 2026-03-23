@@ -12,7 +12,7 @@ An aspiring front-end and web developer
   <img width="100px" height="100px" src="https://github.com/user-attachments/assets/475e5537-7012-4fab-b256-1530bee6ec47" />
   <img width="100px" height="100px" src="https://github.com/user-attachments/assets/18f52832-1ab0-452d-8c1c-8fe6aa4bfeb7" />
   <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-  <img width="100px" height="100px" src="https://drive.google.com/drive/folders/1gD5-kamfribnib6TH4-aqVZxjYaDZlCg?usp=drive_link">
+  <img width="100px" height="100px" src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif">
 
 </p>
 
